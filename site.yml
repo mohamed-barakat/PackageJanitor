@@ -60,6 +60,9 @@
             - homalg_project
             - CAP_project
             - CategoricalTowers
+            - FinSetsForCAP
+            - QPA2
+            - alcove
           tests_additional_packages_to_load:
             - IO_ForHomalg
           tests_only_basic: true
