@@ -539,8 +539,6 @@
             \endgroup
           tests_additional_packages_to_load:
             - Digraphs
-            - FinSetsForCAP ## load before FreydCategoriesForCAP
-            - FreydCategoriesForCAP ## load before SubcategoriesForCAP
             - Locales
           needed_other_repositories:
             - homalg_project
